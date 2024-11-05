@@ -11,7 +11,7 @@ I'm a passionate software engineer specializing in back-end development with a l
 - **Tools:** VS Code, Eclipse
 
 ##  Work Experience
-- **HCLTECH :**                      2+ Years as a Software Engineer
+- **HCLTECH :** 2+ Years as a Software Engineer
 
 ##  Awards
 - I was awarded third prize for the project on 'Heart Disease Prediction,' presented at the CSI Day celebrations held by the Computer Society of India, Chennai Chapter, on Wednesday, March 31, 2021.
