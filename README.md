@@ -7,8 +7,8 @@ I'm a passionate software engineer specializing in back-end development with a l
  
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, DSA
-- **Frameworks:** Django, Flask, Eclipse
-- **Tools:** VS Code
+- **Frameworks:** Django, Flask
+- **Tools:** VS Code, Eclipse
 
 ##  Work Experience
 - **HCLTECH :**  2+ Years as a Software Engineer
