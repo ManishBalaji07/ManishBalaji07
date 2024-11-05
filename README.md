@@ -6,7 +6,8 @@ I'm a passionate software engineer specializing in back-end development with a l
 * ✉️  You can contact me at [munnamanishbalaji@gmail.com](mailto:munnamanishbalaji@gmail.com)
  
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, DSA
+- **Languages:** Python, Java.
+- **Key Competency:** Data Structures and Algorithms (DSA).
 - **Frameworks:** Django, Flask
 - **Tools:** VS Code, Eclipse
 
