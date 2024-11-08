@@ -9,7 +9,7 @@ I'm a passionate software engineer specializing in back-end development with a l
 - **Languages:** Python, Java.
 - **Key Competency:** Data Structures and Algorithms (DSA).
 - **Frameworks:** Django, Flask.
-- **Tools:** VS Code, Eclipse.
+- **Tools:** VS Code, Jira, Eclipse.
 
 ##  Work Experience
 - **HCLTECH (Nov 2022- Present) :**  2+ Years of Experience as a Software Engineer.
