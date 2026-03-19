@@ -13,7 +13,7 @@ I'm a passionate software engineer specializing in back-end development with a l
 - **Tools:** Docker, Postman, Jira, TFS, VS Code, pgAdmin, PuTTY
 
 ##  Work Experience
-- **HCLTECH (Nov 2022- Present) :**  2+ Years of Experience as a Software Engineer.
+- **HCLTECH (Nov 2022- Present) :**  3+ Years of Experience as a Software Engineer.
 
 ##  Awards
 - I was awarded third prize for the project on 'Heart Disease Prediction,' presented at the CSI Day celebrations held by the Computer Society of India, Chennai Chapter, on Wednesday, March 31, 2021.
