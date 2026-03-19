@@ -6,10 +6,11 @@ I'm a passionate software engineer specializing in back-end development with a l
 * ✉️  You can contact me at [munnamanishbalaji@gmail.com](mailto:munnamanishbalaji@gmail.com)
  
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java.
-- **Key Competency:** Data Structures and Algorithms (DSA).
-- **Frameworks:** Django, Flask.
-- **Tools:** VS Code, Jira, Eclipse.
+- **Languages:** Python
+- **Backend:** REST APIs, Microservices Architecture 
+- **Frameworks:** FastAPI
+- **Databases:** PostgreSQL, MS SQL  
+- **Tools:** Docker, Postman, Jira, TFS, VS Code, pgAdmin, PuTTY
 
 ##  Work Experience
 - **HCLTECH (Nov 2022- Present) :**  2+ Years of Experience as a Software Engineer.
