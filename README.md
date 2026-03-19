@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a passionate software engineer specializing in back-end development with a love fore building scalable applications and exploring new technologies.
 * 🌍  I'm based in Chennai, India
-* ✉️  You can contact me at [munnamanishbalaji@gmail.com](mailto:munnamanishbalaji@gmail.com)
+* ✉️  You can contact me at [munnamanishbalaji@gmail.com](mailto:manishbalaji15@gmail.com)
  
 ## 🛠️ Tech Stack
 - **Languages:** Python
